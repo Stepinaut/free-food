@@ -9,3 +9,5 @@
 Стек решений:
 - PHP
 - JavaScript
+
+![Image alt](https://github.com/Stepinaut/img_seoshka/blob/main/logo.png)
